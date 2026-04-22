@@ -1,4 +1,6 @@
 {
+    "name": "ian/diamond-store",
+    "description": "Tienda de Diamantes",
     "require": {
         "mercadopago/dx-php": "2.5.2"
     }
